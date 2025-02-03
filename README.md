@@ -13,4 +13,3 @@ changes in lighting, shadow.
 the simulation, allowing them to observe and influence various aspects of the urban 
 environment, such as traffic flow and also day or night transistion.
 
-This project has been co-created with Nishat Afla (https://github.com/NishatAfla)
